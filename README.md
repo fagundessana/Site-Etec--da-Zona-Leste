@@ -35,7 +35,10 @@ O objetivo da atividade é reformular o site da Etec da Zona Leste, aplicando co
 - **PHP** – geração de conteúdo dinâmico e processamento de formulário
 
 ---
+# Representação visual do site 
+https://github.com/user-attachments/assets/44fde394-7c48-4cdb-ab10-6acaffbe704c
 
+---
 ## 🗂️ Páginas do Projeto
 
 ### 🏠 index.php — Home
