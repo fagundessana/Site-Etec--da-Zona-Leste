@@ -6,17 +6,6 @@ O objetivo da atividade é reformular o site da Etec da Zona Leste, aplicando co
 
 ---
 
-## 📌 Informações da Atividade
-
-| Campo | Informação |
-|---|---|
-| 📚 Disciplina | Programação Web II |
-| 👩‍💻 Aluna | Ana Beatriz Araujo Fagundes |
-| 🏫 Turma | 2 DS/AMS – Grupo A |
-| 🏛️ Instituição | Etec da Zona Leste |
-
----
-
 ## 🎯 Objetivo da Atividade
 
 - Reformular o site institucional da Etec da Zona Leste
@@ -58,7 +47,7 @@ Página com os cursos oferecidos pela Etec, contendo:
 
 ### 🏛️ gestao.php — Gestão
 Página institucional com informações sobre a equipe gestora, contendo:
-- Seção de Direção com foto e descrição
+- Seção de Direção e descrição
 - Coordenações Pedagógicas por área
 - Setores Administrativos com horários
 - Documentos e regulamentos para download
@@ -78,6 +67,7 @@ Página com formulário de contato, contendo os campos:
 - Endereço
 - Telefone
 - E-mail
+- Mensagem
 
 > O formulário utiliza `method="POST"` e `action="processa.php"`
 
