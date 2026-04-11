@@ -120,7 +120,7 @@ http://localhost/SITE_ETEC/index.php
 ```
 
 ---
-##Observações finais
+## Observações finais
 
 Esta atividade foi desenvolvida para **fins educacionais**.
 
