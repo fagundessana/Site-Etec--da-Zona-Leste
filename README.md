@@ -120,8 +120,12 @@ http://localhost/SITE_ETEC/index.php
 ```
 
 ---
+#Observações finais
+Esta atividade foi desenvolvida para **fins educacionais**.
 
+---
 ## 👩‍💻 Autoria
 
 **Ana Beatriz Araujo Fagundes**
 Estudante de Desenvolvimento de Sistemas (AMS) – Etec da Zona Leste
+
