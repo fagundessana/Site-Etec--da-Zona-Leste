@@ -302,6 +302,15 @@ body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: var(
   margin-top: 8px;
 }
 .contato-submit-btn:hover { background: var(--red-dark); }
+.input-erro {
+  border-color: #dc3545 !important;
+}
+.erro-campo {
+  color: #dc3545;
+  display: block;
+  margin-top: 4px;
+  font-size: 0.85rem;
+}
 .contato-info { padding: 8px 0; }
 .contato-info-title { font-size: 1.3rem; font-weight: 700; color: var(--text-dark   ); margin-bottom: 24px; }
 .contato-info-item {
