@@ -28,7 +28,7 @@ O objetivo da atividade é reformular o site da Etec da Zona Leste, aplicando co
 https://github.com/user-attachments/assets/44fde394-7c48-4cdb-ab10-6acaffbe704c
 
 ---
-## Validação do formulário de contato
+## ☑️ Validação do formulário de contato
 
 <img width="1893" height="860" alt="image" src="https://github.com/user-attachments/assets/c85e3252-7e5c-4813-a924-98e42a299afc" />
 
